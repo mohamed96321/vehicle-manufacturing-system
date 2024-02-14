@@ -1,5 +1,5 @@
 # Vehicle Manufacturing System
-
+<p>
 ├── src
 │   ├── main
 │   │   ├── java
@@ -47,6 +47,7 @@
 ├── lib
     ├── hamcrest-core-1.3.jar
     ├── junit-4.13.2.jar
+</p>
 
 ## Project Overview
 This project is a simple vehicle manufacturing system implemented in Java. It includes classes for vehicles, factories, observers, strategies, and a quality control manager.
